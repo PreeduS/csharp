@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.pdb

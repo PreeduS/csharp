@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\bin\Debug\netcoreapp2.0\Events.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\bin\Debug\netcoreapp2.0\Events.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\bin\Debug\netcoreapp2.0\Events.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\bin\Debug\netcoreapp2.0\Events.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\bin\Debug\netcoreapp2.0\Events.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\obj\Debug\netcoreapp2.0\Events.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\obj\Debug\netcoreapp2.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\obj\Debug\netcoreapp2.0\Events.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\obj\Debug\netcoreapp2.0\Events.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\obj\Debug\netcoreapp2.0\Events.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Events\obj\Debug\netcoreapp2.0\Events.pdb

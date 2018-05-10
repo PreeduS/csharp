@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\bin\Debug\netcoreapp2.0\AsyncAwait.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\bin\Debug\netcoreapp2.0\AsyncAwait.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\bin\Debug\netcoreapp2.0\AsyncAwait.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\bin\Debug\netcoreapp2.0\AsyncAwait.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\bin\Debug\netcoreapp2.0\AsyncAwait.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\obj\Debug\netcoreapp2.0\AsyncAwait.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\obj\Debug\netcoreapp2.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\obj\Debug\netcoreapp2.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\obj\Debug\netcoreapp2.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\obj\Debug\netcoreapp2.0\AsyncAwait.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\AsyncAwait\obj\Debug\netcoreapp2.0\AsyncAwait.pdb

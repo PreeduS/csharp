@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\bin\Debug\netcoreapp2.0\IComparable Implementation.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\bin\Debug\netcoreapp2.0\IComparable Implementation.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\bin\Debug\netcoreapp2.0\IComparable Implementation.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\bin\Debug\netcoreapp2.0\IComparable Implementation.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\bin\Debug\netcoreapp2.0\IComparable Implementation.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\obj\Debug\netcoreapp2.0\IComparable Implementation.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\obj\Debug\netcoreapp2.0\IComparable Implementation.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\obj\Debug\netcoreapp2.0\IComparable Implementation.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\obj\Debug\netcoreapp2.0\IComparable Implementation.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\obj\Debug\netcoreapp2.0\IComparable Implementation.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\IComparable Implementation\obj\Debug\netcoreapp2.0\IComparable Implementation.pdb

@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\bin\Debug\netcoreapp2.0\Tasks.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\bin\Debug\netcoreapp2.0\Tasks.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\bin\Debug\netcoreapp2.0\Tasks.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\bin\Debug\netcoreapp2.0\Tasks.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\bin\Debug\netcoreapp2.0\Tasks.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\obj\Debug\netcoreapp2.0\Tasks.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\obj\Debug\netcoreapp2.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\obj\Debug\netcoreapp2.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\obj\Debug\netcoreapp2.0\Tasks.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\obj\Debug\netcoreapp2.0\Tasks.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Tasks\obj\Debug\netcoreapp2.0\Tasks.pdb

@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\bin\Debug\netcoreapp2.0\Delegate.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\bin\Debug\netcoreapp2.0\Delegate.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\bin\Debug\netcoreapp2.0\Delegate.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\bin\Debug\netcoreapp2.0\Delegate.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\bin\Debug\netcoreapp2.0\Delegate.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\obj\Debug\netcoreapp2.0\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\obj\Debug\netcoreapp2.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\obj\Debug\netcoreapp2.0\Delegate.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Delegates\Delegate\obj\Debug\netcoreapp2.0\Delegate.pdb

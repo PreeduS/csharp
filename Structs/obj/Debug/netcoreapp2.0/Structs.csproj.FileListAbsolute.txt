@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\bin\Debug\netcoreapp2.0\Structs.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\bin\Debug\netcoreapp2.0\Structs.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\bin\Debug\netcoreapp2.0\Structs.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\bin\Debug\netcoreapp2.0\Structs.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\bin\Debug\netcoreapp2.0\Structs.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\obj\Debug\netcoreapp2.0\Structs.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\obj\Debug\netcoreapp2.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\obj\Debug\netcoreapp2.0\Structs.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\obj\Debug\netcoreapp2.0\Structs.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\obj\Debug\netcoreapp2.0\Structs.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\Structs\obj\Debug\netcoreapp2.0\Structs.pdb

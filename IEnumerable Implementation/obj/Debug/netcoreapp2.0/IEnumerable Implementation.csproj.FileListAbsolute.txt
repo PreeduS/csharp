@@ -1,0 +1,11 @@
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\obj\Debug\netcoreapp2.0\IEnumerable Implementation.csprojResolveAssemblyReference.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\obj\Debug\netcoreapp2.0\IEnumerable Implementation.csproj.CoreCompileInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\obj\Debug\netcoreapp2.0\IEnumerable Implementation.AssemblyInfoInputs.cache
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\obj\Debug\netcoreapp2.0\IEnumerable Implementation.AssemblyInfo.cs
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\bin\Debug\netcoreapp2.0\IEnumerable Implementation.deps.json
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\bin\Debug\netcoreapp2.0\IEnumerable Implementation.runtimeconfig.json
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\bin\Debug\netcoreapp2.0\IEnumerable Implementation.runtimeconfig.dev.json
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\bin\Debug\netcoreapp2.0\IEnumerable Implementation.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\bin\Debug\netcoreapp2.0\IEnumerable Implementation.pdb
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\obj\Debug\netcoreapp2.0\IEnumerable Implementation.dll
+C:\Users\laurentiu.tamasila\Desktop\C#\IEnumerable Implementation\obj\Debug\netcoreapp2.0\IEnumerable Implementation.pdb
