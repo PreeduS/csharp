@@ -1,0 +1,11 @@
+D:\C# saves 2.1\Tuple\bin\Debug\netcoreapp2.0\Tuple.deps.json
+D:\C# saves 2.1\Tuple\bin\Debug\netcoreapp2.0\Tuple.runtimeconfig.json
+D:\C# saves 2.1\Tuple\bin\Debug\netcoreapp2.0\Tuple.runtimeconfig.dev.json
+D:\C# saves 2.1\Tuple\bin\Debug\netcoreapp2.0\Tuple.dll
+D:\C# saves 2.1\Tuple\bin\Debug\netcoreapp2.0\Tuple.pdb
+D:\C# saves 2.1\Tuple\obj\Debug\netcoreapp2.0\Tuple.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Tuple\obj\Debug\netcoreapp2.0\Tuple.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Tuple\obj\Debug\netcoreapp2.0\Tuple.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Tuple\obj\Debug\netcoreapp2.0\Tuple.AssemblyInfo.cs
+D:\C# saves 2.1\Tuple\obj\Debug\netcoreapp2.0\Tuple.dll
+D:\C# saves 2.1\Tuple\obj\Debug\netcoreapp2.0\Tuple.pdb

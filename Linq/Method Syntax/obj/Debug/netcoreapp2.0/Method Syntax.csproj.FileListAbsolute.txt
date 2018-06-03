@@ -9,3 +9,14 @@ C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.
 C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.AssemblyInfo.cs
 C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.dll
 C:\Users\laurentiu.tamasila\Desktop\C#\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.pdb
+D:\C# saves 2.1\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.deps.json
+D:\C# saves 2.1\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.runtimeconfig.json
+D:\C# saves 2.1\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.runtimeconfig.dev.json
+D:\C# saves 2.1\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.dll
+D:\C# saves 2.1\Linq\Method Syntax\bin\Debug\netcoreapp2.0\Method Syntax.pdb
+D:\C# saves 2.1\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.AssemblyInfo.cs
+D:\C# saves 2.1\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.dll
+D:\C# saves 2.1\Linq\Method Syntax\obj\Debug\netcoreapp2.0\Method Syntax.pdb

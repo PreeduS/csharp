@@ -1,0 +1,11 @@
+D:\C# saves 2.1\Linq\Operators\bin\Debug\netcoreapp2.0\Operators.deps.json
+D:\C# saves 2.1\Linq\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.json
+D:\C# saves 2.1\Linq\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.dev.json
+D:\C# saves 2.1\Linq\Operators\bin\Debug\netcoreapp2.0\Operators.dll
+D:\C# saves 2.1\Linq\Operators\bin\Debug\netcoreapp2.0\Operators.pdb
+D:\C# saves 2.1\Linq\Operators\obj\Debug\netcoreapp2.0\Operators.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Linq\Operators\obj\Debug\netcoreapp2.0\Operators.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Linq\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Linq\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfo.cs
+D:\C# saves 2.1\Linq\Operators\obj\Debug\netcoreapp2.0\Operators.dll
+D:\C# saves 2.1\Linq\Operators\obj\Debug\netcoreapp2.0\Operators.pdb

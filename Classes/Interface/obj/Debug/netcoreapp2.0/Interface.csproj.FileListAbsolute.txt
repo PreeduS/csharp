@@ -1,0 +1,11 @@
+D:\C# saves2\Classes\Interface\bin\Debug\netcoreapp2.0\Interface.deps.json
+D:\C# saves2\Classes\Interface\bin\Debug\netcoreapp2.0\Interface.runtimeconfig.json
+D:\C# saves2\Classes\Interface\bin\Debug\netcoreapp2.0\Interface.runtimeconfig.dev.json
+D:\C# saves2\Classes\Interface\bin\Debug\netcoreapp2.0\Interface.dll
+D:\C# saves2\Classes\Interface\bin\Debug\netcoreapp2.0\Interface.pdb
+D:\C# saves2\Classes\Interface\obj\Debug\netcoreapp2.0\Interface.csprojResolveAssemblyReference.cache
+D:\C# saves2\Classes\Interface\obj\Debug\netcoreapp2.0\Interface.csproj.CoreCompileInputs.cache
+D:\C# saves2\Classes\Interface\obj\Debug\netcoreapp2.0\Interface.AssemblyInfoInputs.cache
+D:\C# saves2\Classes\Interface\obj\Debug\netcoreapp2.0\Interface.AssemblyInfo.cs
+D:\C# saves2\Classes\Interface\obj\Debug\netcoreapp2.0\Interface.dll
+D:\C# saves2\Classes\Interface\obj\Debug\netcoreapp2.0\Interface.pdb

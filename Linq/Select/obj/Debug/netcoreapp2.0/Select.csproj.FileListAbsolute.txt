@@ -1,0 +1,11 @@
+D:\C# saves 2.1\Linq\Select\bin\Debug\netcoreapp2.0\Select.deps.json
+D:\C# saves 2.1\Linq\Select\bin\Debug\netcoreapp2.0\Select.runtimeconfig.json
+D:\C# saves 2.1\Linq\Select\bin\Debug\netcoreapp2.0\Select.runtimeconfig.dev.json
+D:\C# saves 2.1\Linq\Select\bin\Debug\netcoreapp2.0\Select.dll
+D:\C# saves 2.1\Linq\Select\bin\Debug\netcoreapp2.0\Select.pdb
+D:\C# saves 2.1\Linq\Select\obj\Debug\netcoreapp2.0\Select.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Linq\Select\obj\Debug\netcoreapp2.0\Select.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Linq\Select\obj\Debug\netcoreapp2.0\Select.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Linq\Select\obj\Debug\netcoreapp2.0\Select.AssemblyInfo.cs
+D:\C# saves 2.1\Linq\Select\obj\Debug\netcoreapp2.0\Select.dll
+D:\C# saves 2.1\Linq\Select\obj\Debug\netcoreapp2.0\Select.pdb

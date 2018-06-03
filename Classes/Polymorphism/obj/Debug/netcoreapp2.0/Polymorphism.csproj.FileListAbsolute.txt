@@ -1,0 +1,11 @@
+D:\C# saves2\Classes\Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism.deps.json
+D:\C# saves2\Classes\Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism.runtimeconfig.json
+D:\C# saves2\Classes\Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism.runtimeconfig.dev.json
+D:\C# saves2\Classes\Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism.dll
+D:\C# saves2\Classes\Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism.pdb
+D:\C# saves2\Classes\Polymorphism\obj\Debug\netcoreapp2.0\Polymorphism.csprojResolveAssemblyReference.cache
+D:\C# saves2\Classes\Polymorphism\obj\Debug\netcoreapp2.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\C# saves2\Classes\Polymorphism\obj\Debug\netcoreapp2.0\Polymorphism.AssemblyInfoInputs.cache
+D:\C# saves2\Classes\Polymorphism\obj\Debug\netcoreapp2.0\Polymorphism.AssemblyInfo.cs
+D:\C# saves2\Classes\Polymorphism\obj\Debug\netcoreapp2.0\Polymorphism.dll
+D:\C# saves2\Classes\Polymorphism\obj\Debug\netcoreapp2.0\Polymorphism.pdb

@@ -1,0 +1,33 @@
+D:\C# saves2\Enums\bin\Debug\netcoreapp2.0\Enums.deps.json
+D:\C# saves2\Enums\bin\Debug\netcoreapp2.0\Enums.runtimeconfig.json
+D:\C# saves2\Enums\bin\Debug\netcoreapp2.0\Enums.runtimeconfig.dev.json
+D:\C# saves2\Enums\bin\Debug\netcoreapp2.0\Enums.dll
+D:\C# saves2\Enums\bin\Debug\netcoreapp2.0\Enums.pdb
+D:\C# saves2\Enums\obj\Debug\netcoreapp2.0\Enums.csprojResolveAssemblyReference.cache
+D:\C# saves2\Enums\obj\Debug\netcoreapp2.0\Enums.csproj.CoreCompileInputs.cache
+D:\C# saves2\Enums\obj\Debug\netcoreapp2.0\Enums.AssemblyInfoInputs.cache
+D:\C# saves2\Enums\obj\Debug\netcoreapp2.0\Enums.AssemblyInfo.cs
+D:\C# saves2\Enums\obj\Debug\netcoreapp2.0\Enums.dll
+D:\C# saves2\Enums\obj\Debug\netcoreapp2.0\Enums.pdb
+D:\C# saves2\types\Enums\bin\Debug\netcoreapp2.0\Enums.deps.json
+D:\C# saves2\types\Enums\bin\Debug\netcoreapp2.0\Enums.runtimeconfig.json
+D:\C# saves2\types\Enums\bin\Debug\netcoreapp2.0\Enums.runtimeconfig.dev.json
+D:\C# saves2\types\Enums\bin\Debug\netcoreapp2.0\Enums.dll
+D:\C# saves2\types\Enums\bin\Debug\netcoreapp2.0\Enums.pdb
+D:\C# saves2\types\Enums\obj\Debug\netcoreapp2.0\Enums.csprojResolveAssemblyReference.cache
+D:\C# saves2\types\Enums\obj\Debug\netcoreapp2.0\Enums.csproj.CoreCompileInputs.cache
+D:\C# saves2\types\Enums\obj\Debug\netcoreapp2.0\Enums.AssemblyInfoInputs.cache
+D:\C# saves2\types\Enums\obj\Debug\netcoreapp2.0\Enums.AssemblyInfo.cs
+D:\C# saves2\types\Enums\obj\Debug\netcoreapp2.0\Enums.dll
+D:\C# saves2\types\Enums\obj\Debug\netcoreapp2.0\Enums.pdb
+D:\C# saves 2.1\Types\Enums\bin\Debug\netcoreapp2.0\Enums.deps.json
+D:\C# saves 2.1\Types\Enums\bin\Debug\netcoreapp2.0\Enums.runtimeconfig.json
+D:\C# saves 2.1\Types\Enums\bin\Debug\netcoreapp2.0\Enums.runtimeconfig.dev.json
+D:\C# saves 2.1\Types\Enums\bin\Debug\netcoreapp2.0\Enums.dll
+D:\C# saves 2.1\Types\Enums\bin\Debug\netcoreapp2.0\Enums.pdb
+D:\C# saves 2.1\Types\Enums\obj\Debug\netcoreapp2.0\Enums.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Types\Enums\obj\Debug\netcoreapp2.0\Enums.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Types\Enums\obj\Debug\netcoreapp2.0\Enums.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Types\Enums\obj\Debug\netcoreapp2.0\Enums.AssemblyInfo.cs
+D:\C# saves 2.1\Types\Enums\obj\Debug\netcoreapp2.0\Enums.dll
+D:\C# saves 2.1\Types\Enums\obj\Debug\netcoreapp2.0\Enums.pdb

@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laurentiu.tamasila\\.nuget\\packages\\": {},
+    "C:\\Users\\Marian\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laurentiu.tamasila\\Desktop\\C#\\Linq\\Method Syntax\\Method Syntax.csproj",
+      "projectUniqueName": "D:\\C# saves 2.1\\Linq\\Method Syntax\\Method Syntax.csproj",
       "projectName": "Method Syntax",
-      "projectPath": "C:\\Users\\laurentiu.tamasila\\Desktop\\C#\\Linq\\Method Syntax\\Method Syntax.csproj",
-      "packagesPath": "C:\\Users\\laurentiu.tamasila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laurentiu.tamasila\\Desktop\\C#\\Linq\\Method Syntax\\obj\\",
+      "projectPath": "D:\\C# saves 2.1\\Linq\\Method Syntax\\Method Syntax.csproj",
+      "packagesPath": "C:\\Users\\Marian\\.nuget\\packages\\",
+      "outputPath": "D:\\C# saves 2.1\\Linq\\Method Syntax\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\laurentiu.tamasila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -688,9 +688,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://10.0.213.20/nuget": {},
-        "http://nexus/repository/HaifaNuget": {},
-        "http://wilbuild1.online.greenfieldnet.com:8080/guestAuth/app/nuget/v1/FeedService.svc": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

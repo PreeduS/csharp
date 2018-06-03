@@ -1,0 +1,11 @@
+D:\C# saves 2.1\Reflection and Attributes\Reflection\bin\Debug\netcoreapp2.0\Reflection.deps.json
+D:\C# saves 2.1\Reflection and Attributes\Reflection\bin\Debug\netcoreapp2.0\Reflection.runtimeconfig.json
+D:\C# saves 2.1\Reflection and Attributes\Reflection\bin\Debug\netcoreapp2.0\Reflection.runtimeconfig.dev.json
+D:\C# saves 2.1\Reflection and Attributes\Reflection\bin\Debug\netcoreapp2.0\Reflection.dll
+D:\C# saves 2.1\Reflection and Attributes\Reflection\bin\Debug\netcoreapp2.0\Reflection.pdb
+D:\C# saves 2.1\Reflection and Attributes\Reflection\obj\Debug\netcoreapp2.0\Reflection.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Reflection and Attributes\Reflection\obj\Debug\netcoreapp2.0\Reflection.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Reflection and Attributes\Reflection\obj\Debug\netcoreapp2.0\Reflection.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Reflection and Attributes\Reflection\obj\Debug\netcoreapp2.0\Reflection.AssemblyInfo.cs
+D:\C# saves 2.1\Reflection and Attributes\Reflection\obj\Debug\netcoreapp2.0\Reflection.dll
+D:\C# saves 2.1\Reflection and Attributes\Reflection\obj\Debug\netcoreapp2.0\Reflection.pdb

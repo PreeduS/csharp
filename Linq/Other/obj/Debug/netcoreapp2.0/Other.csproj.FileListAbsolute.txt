@@ -1,0 +1,11 @@
+D:\C# saves 2.1\Linq\Other\bin\Debug\netcoreapp2.0\Other.deps.json
+D:\C# saves 2.1\Linq\Other\bin\Debug\netcoreapp2.0\Other.runtimeconfig.json
+D:\C# saves 2.1\Linq\Other\bin\Debug\netcoreapp2.0\Other.runtimeconfig.dev.json
+D:\C# saves 2.1\Linq\Other\bin\Debug\netcoreapp2.0\Other.dll
+D:\C# saves 2.1\Linq\Other\bin\Debug\netcoreapp2.0\Other.pdb
+D:\C# saves 2.1\Linq\Other\obj\Debug\netcoreapp2.0\Other.csprojResolveAssemblyReference.cache
+D:\C# saves 2.1\Linq\Other\obj\Debug\netcoreapp2.0\Other.csproj.CoreCompileInputs.cache
+D:\C# saves 2.1\Linq\Other\obj\Debug\netcoreapp2.0\Other.AssemblyInfoInputs.cache
+D:\C# saves 2.1\Linq\Other\obj\Debug\netcoreapp2.0\Other.AssemblyInfo.cs
+D:\C# saves 2.1\Linq\Other\obj\Debug\netcoreapp2.0\Other.dll
+D:\C# saves 2.1\Linq\Other\obj\Debug\netcoreapp2.0\Other.pdb
